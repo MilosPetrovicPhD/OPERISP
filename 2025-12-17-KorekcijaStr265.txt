@@ -1,0 +1,3 @@
+Str.265, TAB.9.42 Latinski kvadrati 
+Drugi red kvadrata 8x8 treba da bude
+B C D E F G H A
